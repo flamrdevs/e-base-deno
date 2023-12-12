@@ -2,6 +2,7 @@
   "imports": {
     "~/": "./src/",
     "std/dotenv/": "https://deno.land/std@0.208.0/dotenv/",
-    "hono/": "https://deno.land/x/hono@v3.9.2/"
+    "hono/": "https://deno.land/x/hono@v3.11.4/",
+    "valibot/": "https://deno.land/x/valibot@v0.24.1/"
   }
 }
